@@ -1,0 +1,156 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "imagem": "./assets/img/produto__imagem1.png",
+      "categoria": "Star Wars",
+      "nome": "Produto A",
+      "preco": 1.99,
+      "descricao": "Lorem ipsum dolor sit amet..."
+    },
+    {
+      "id": 2,
+      "imagem": "./assets/img/produto__imagem2.png",
+      "categoria": "Star Wars",
+      "nome": "Produto B",
+      "preco": "14.9",
+      "descricao": "Lorem ipsum dolor sit amet..."
+    },
+    {
+      "id": 3,
+      "imagem": "./assets/img/produto__imagem3.png",
+      "categoria": "Star Wars",
+      "nome": "Produto C",
+      "preco": 39.9,
+      "descricao": "Essa é a descrição do Produto C."
+    },
+    {
+      "id": 4,
+      "imagem": "./assets/img/produto__imagem4.png",
+      "categoria": "Star Wars",
+      "nome": "Produto D",
+      "preco": 0.99,
+      "descricao": "Lorem ipsum dolor sit amet..."
+    },
+    {
+      "id": 5,
+      "imagem": "./assets/img/produto__imagem5.png",
+      "categoria": "Star Wars",
+      "nome": "Produto E",
+      "preco": 19.9,
+      "descricao": "Lorem ipsum dolor sit amet..."
+    },
+    {
+      "id": 6,
+      "imagem": "./assets/img/produto__imagem6.png",
+      "categoria": "Star Wars",
+      "nome": "Produto F",
+      "preco": 7.9,
+      "descricao": "Lorem ipsum dolor sit amet..."
+    },
+    {
+      "id": 7,
+      "imagem": "./assets/img/produto__imagem7.png",
+      "categoria": "Consoles",
+      "nome": "Produto G",
+      "preco": 14.9,
+      "descricao": "Lorem ipsum dolor sit amet..."
+    },
+    {
+      "id": 8,
+      "imagem": "./assets/img/produto__imagem8.png",
+      "categoria": "Consoles",
+      "nome": "Produto H",
+      "preco": 2.99,
+      "descricao": "Lorem ipsum dolor sit amet..."
+    },
+    {
+      "id": 9,
+      "imagem": "./assets/img/produto__imagem9.png",
+      "categoria": "Consoles",
+      "nome": "Produto I",
+      "preco": 1.99,
+      "descricao": "Lorem ipsum dolor sit amet..."
+    },
+    {
+      "id": 10,
+      "imagem": "./assets/img/produto__imagem10.png",
+      "categoria": "Consoles",
+      "nome": "Produto J",
+      "preco": 157.9,
+      "descricao": "Lorem ipsum dolor sit amet..."
+    },
+    {
+      "id": 11,
+      "imagem": "./assets/img/produto__imagem11.png",
+      "categoria": "Consoles",
+      "nome": "Produto K",
+      "preco": 99.9,
+      "descricao": "Lorem ipsum dolor sit amet..."
+    },
+    {
+      "id": 12,
+      "imagem": "./assets/img/produto__imagem12.png",
+      "categoria": "Consoles",
+      "nome": "Produto L",
+      "preco": 34.9,
+      "descricao": "Lorem ipsum dolor sit amet..."
+    },
+    {
+      "id": 13,
+      "imagem": "./assets/img/produto__imagem13.png",
+      "categoria": "Diversos",
+      "nome": "Produto M",
+      "preco": 11.99,
+      "descricao": "Lorem ipsum dolor sit amet..."
+    },
+    {
+      "id": 14,
+      "imagem": "./assets/img/produto__imagem14.png",
+      "categoria": "Diversos",
+      "nome": "Produto N",
+      "preco": "9",
+      "descricao": "Lorem ipsum dolor sit amet..."
+    },
+    {
+      "id": 15,
+      "imagem": "./assets/img/produto__imagem15.png",
+      "categoria": "Diversos",
+      "nome": "Produto O",
+      "preco": 4.99,
+      "descricao": "Lorem ipsum dolor sit amet..."
+    },
+    {
+      "id": 16,
+      "imagem": "./assets/img/produto__imagem16.png",
+      "categoria": "Diversos",
+      "nome": "Produto P",
+      "preco": 54.9,
+      "descricao": "Lorem ipsum dolor sit amet..."
+    },
+    {
+      "id": 17,
+      "imagem": "./assets/img/produto__imagem17.png",
+      "categoria": "Diversos",
+      "nome": "Produto Q",
+      "preco": 14.9,
+      "descricao": "Lorem ipsum dolor sit amet..."
+    },
+    {
+      "id": 18,
+      "imagem": "./assets/img/produto__imagem18.jpg",
+      "categoria": "Diversos",
+      "nome": "Produto R",
+      "preco": "9.99",
+      "descricao": "Lorem ipsum dolor sit amet..."
+    },
+    {
+      "imagem": "sasas",
+      "categoria": "assaas",
+      "nome": "asasas",
+      "preco": "1111.90",
+      "descricao": "dsds",
+      "id": 19
+    }
+  ]
+}
