@@ -143,14 +143,6 @@
       "nome": "Produto R",
       "preco": "9.99",
       "descricao": "Lorem ipsum dolor sit amet..."
-    },
-    {
-      "imagem": "sasas",
-      "categoria": "assaas",
-      "nome": "asasas",
-      "preco": "1111.90",
-      "descricao": "dsds",
-      "id": 19
     }
   ]
 }
